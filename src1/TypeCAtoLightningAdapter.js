@@ -9,7 +9,6 @@ class TypeCtoLightningAdapter {
     }
 }
 
-// Проверка отдельно
 const lightningPhone = {
     chargeWithLightning() {
         console.log("Charging iPhone via Lightning... (object imitation)");
