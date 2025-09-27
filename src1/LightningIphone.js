@@ -4,6 +4,6 @@ class LightningIphone {
     }
 }
 
-// Для проверки отдельно:
+
 const phone = new LightningIphone();
 phone.chargeWithLightning();
