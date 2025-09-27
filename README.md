@@ -1,0 +1,1 @@
+Adapter structure design pattern
